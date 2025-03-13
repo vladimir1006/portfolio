@@ -11,6 +11,7 @@ export default defineConfig({
     vueDevTools(),
   ],
   base: '/portfolio/',
+  assetsInclude: ['**/*.html'],
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
