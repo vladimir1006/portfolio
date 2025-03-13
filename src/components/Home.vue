@@ -1,7 +1,6 @@
 <template>
     <div class="home">
         <h1>Welcome to My Portfolio</h1>
-        <p>This is the home view of my portfolio.</p>
     </div>
 </template>
 
