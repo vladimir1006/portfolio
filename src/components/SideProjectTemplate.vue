@@ -12,15 +12,12 @@
         <p>Root-me profile: </p>
     </div>
     <div class="side-project-template">
-        
-        <!-- <iframe
-            :src="IFrameSnake"
-            frameborder="0" 
-            width="400" 
-            height="400" 
+    <iframe src="https://vladimir1006.github.io/snake/" frameborder="0"
+            width="700" 
+            height="600" 
             style="overflow: hidden;" 
             scrolling="no"
-        ></iframe> -->
+    ></iframe>
         <p>parler du snake auto solver, mettre le iframe (a voir si ca marche)</p>
     </div>
 </template>
