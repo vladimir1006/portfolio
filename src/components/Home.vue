@@ -1,11 +1,15 @@
+<script setup>
+import Presentation from './Presentation.vue';
+
+</script>
+
 <template>
     <div class="home">
         <h1>Welcome to My Portfolio</h1>
+        <Presentation />
     </div>
 </template>
 
-<script setup>
-</script>
 
 <style scoped>
 .home {

@@ -1,5 +1,6 @@
 <script setup>
-    import IframeSnake from '@/assets/iframe/snake.html';
+    // déployer snake.html sur github-pages et faire un iframe du lien publique !!!
+    //import IFrameSnake from '@/assets/snake';
 </script>
 
 <template>
@@ -12,12 +13,13 @@
     </div>
     <div class="side-project-template">
         
-        <!-- <iframe :src="IframeSnake" 
-                frameborder="0" 
-                width="400" 
-                height="400" 
-                style="overflow: hidden;" 
-                scrolling="no">
+        <!-- <iframe
+            :src="IFrameSnake"
+            frameborder="0" 
+            width="400" 
+            height="400" 
+            style="overflow: hidden;" 
+            scrolling="no"
         ></iframe> -->
         <p>parler du snake auto solver, mettre le iframe (a voir si ca marche)</p>
     </div>
