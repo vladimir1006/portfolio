@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## TODOLIST: 
+changer le style des liens router
+mettre le iframe du snake
+

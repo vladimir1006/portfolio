@@ -9,13 +9,15 @@ import App from './App.vue'
 import CVComponent from './components/CVComponent.vue';
 import Presentation from './components/Presentation.vue';
 import Projects from './Projects.vue';
+import AboutMe from './components/AboutMe.vue';
 
 
 const routes = [
    { path: '/', component: Home },
    {path: '/cv', component: CVComponent},
    {path: '/presentation', component: Presentation },
-   {path: '/projects', component: Projects}
+   {path: '/projects', component: Projects},
+   {path: '/aboutme', component: AboutMe}
 ]
 
 const router = createRouter({
